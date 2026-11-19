@@ -1,4 +1,4 @@
-![Animated GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHNrempyYnJ6dno5amFrN2J3Ym05amJ6b3MzZzh0Zzg0MTNtcHI2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4lu5FuhtrbaOQgKN57/giphy.gif)
+<img src="https://media3.giphy.com/media/4lu5FuhtrbaOQgKN57/giphy.gif" width="1000" alt="Animated GIF">
 
 
 Hi 👋, I'm Yogesh Hinge
