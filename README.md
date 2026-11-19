@@ -34,11 +34,3 @@ A cybersecurity project designed to analyze network traffic and identify suspici
 
 🔗 [View NIDS Project](https://github.com/YogeshHinge/NIDS)
 
-
-\</p>
-
----
-
-\<h3 align="center">💫 "Code. Learn. Build. Repeat."\</h3>
-
-\<p align="center">Thanks for visiting my profile! ⭐\</p>
